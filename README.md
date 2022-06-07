@@ -1,4 +1,4 @@
-# First-steps in Python with JetBrains Academy
+# First-steps in Python
 I take the JetBrains Academy to learn python for beginner and here i will post the results. This is my first steps in python to build a very small proyects. I had worked with some python scripts in the past that I didnt have to do anything complicated than set directory and work with csv files. Here i will post small projects with the plataffroms JetBrains Academy.
 
 ## Zookeper
