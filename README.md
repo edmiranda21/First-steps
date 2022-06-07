@@ -3,13 +3,13 @@ I take the JetBrains Academy to learn python for beginner and here i will post t
 
 ## Zookeper
 A proyect called ZooKeeper I need to demonstrate the skills learned. 
-The project just ask you to print an animal of a zoo, the user introduce a number and I needed to check to animal that correspond to that number and print it.
-The project keep asking for a number and printing, but when the user introduce "exit" the program stop with a print of "See you Later!".  
+The project ask you to print an animal of a zoo, then the user introduce a number and check the animal that correspond to that number and print it.
+If you dont introduce a correct parameter the program keep asking for a number to print a result, but when the user introduce "exit" the program stop with a print of "See you Later!".  
 
 
 ## Bot
-A project I demostrate the skills learned, this are functions and loops.
-The exercise try to make a chatbot which you enter some information to know your name, guess your age, count numbers and a little multiple choice test.
+A project to demostrate the skills learned: functions and loops.
+The exercise is a simple chatbot which guess your age, count numbers, make a little multiple choice test and ask your name.
 
 
 ## Loan calculator
